@@ -1,0 +1,54 @@
+	CSS
+	JSS
+
+	Template
+		CSS-botstrap+ style +Media
+		Note: 
+		1. Don't chnage framework file, always make new think chnages in custom file, namely Media and Style
+
+		2. Custom CSS (Style.css) always writen after the botstrapp CSS
+		3. Media.css always lower of serial,such type of CSS run based on screen.
+
+		for developing time we should use botstrap.css(understandable, line by line css) but after delivery to customer(delete botstrap.css file0, we must to enable botstrap.min.css file(this file writen css in single line)
+
+
+		JSS- botstrap  + Script (if any new think then use plugin)
+		Note: write java script always end of the boday tag. this is the standard rules.(due to performance issue(it's called like behaviour))
+
+		Note: ctl+u to check all link are runing from web. 
+
+Meta Tag explain:
+			utf-8: Support all language 
+			name ="viewport": which screen you visited the website namely, desktop, laptop, mobile etc.
+			content="width=device-width,:  It's mean viewsupport wise width of the screen selection.
+
+			initial-scale=1: means zoom in zoom out. 
+
+			Meta tag generator: https://www.seoptimer.com/meta-tag-generator
+
+			Note: Media Query- It's represent nicely of the website
+
+
+29062024-figma note
+========================
+figma to html
+psd to html
+
+exam
+psd to html
+figma to html
+
+
+figma.com
+register account in figma portal
+
+Color
+Green 	#56548C;
+Black	#000000;
+Red		#FD511A;
+
+pop: 400 500 700
+rob 400
+
+font-family: "Poppins", sans-serif;
+font-family: "Roboto", sans-serif;
